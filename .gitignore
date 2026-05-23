@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.class
+build/
+out/
+.gradle/
